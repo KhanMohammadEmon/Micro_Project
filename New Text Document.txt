@@ -1,0 +1,48 @@
+Ready to scan RFID tag
+Tag detected
+Card UID:  34 83 E7 F6 A6  //old
+Tag detected
+Card UID:  34 83 E7 F6 A6
+Tag detected
+Card UID:  34 83 E7 F6 A6
+Tag detected
+Card UID:  91 14 D1 24 70
+Tag detected
+Card UID:  91 14 D1 24 70 //new
+Tag detected
+Card UID:  91 14 D1 24 70
+Tag detected
+Card UID:  03 5E 45 90 88  //key
+Tag detected
+Card UID:  03 5E 45 90 88
+Tag detected
+Card UID:  03 5E 45 90 88
+
+
+Card UID: 52131231246166
+Tag detected
+Card UID: 52131231246166
+Tag detected
+Card UID: 52131231246166
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 39469144136
+
+
+Card UID: 52131231246166
+Tag detected
+Card UID: 52131231246166
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 1452020936112
+Tag detected
+Card UID: 39469144136
+
